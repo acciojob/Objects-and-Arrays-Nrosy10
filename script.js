@@ -9,7 +9,7 @@ const person = {
  const team = players;
 const team1= players.slice();
 const cap1={...person};
-console.log(team1);
+// console.log(team1);
 window.players = players;
 window.person = person;
 window.team = team;
